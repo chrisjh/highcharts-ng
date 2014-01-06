@@ -3,8 +3,8 @@
   "version": "0.0.3-dev",
   "dependencies": {},
   "devDependencies": {
-    "angular": "latest",
-    "angular-mocks": "latest",
-    "jquery": "latest"
+    "angular": "https://github.com/angular/bower-angular.git",
+    "angular-mocks": "https://github.com/angular/bower-angular-mocks.git",
+    "jquery": "https://github.com/components/jquery.git"
   }
 }
